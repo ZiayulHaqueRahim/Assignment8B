@@ -1,0 +1,175 @@
+[
+    {
+        "product_id": "101",
+        "product_name": "hp A1",
+        "product_title": "hp Ultra Probook ",
+        "product_image": "https://i.ibb.co.com/gMbpJ58/R.jpg",
+        "category": "laptop",
+        "price": 699.99,
+        "description": "A1 Ultra is a high-performance laptop with a stunning display and powerful battery.",
+        "specification": {
+            "Screen Size": "6.5 inches",
+            "Processor": "Octa-core",
+            "RAM": "8 GB",
+            "Storage": "128 GB",
+            "Battery": "4500 mAh"
+        },
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "102",
+        "product_name": "Smartphone Pro 14",
+        "product_title": "Pro 14  Smartphone",
+        "product_image": "https://i.ibb.co.com/XYvNrX4/OIP.jpg",
+        "category": "phone",
+        "price": 1199.99,
+        "description": "Pro 14 phone is a sleek, powerful device with a 14-inch Retina display and all-day battery life.",
+        "specification": {
+            "Screen Size": "14 inches",
+            "Processor": "Intel Core i7",
+            "RAM": "16 GB",
+            "Storage": "512 GB SSD",
+            "Battery": "6000 mAh"
+        },
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "103",
+        "product_name": "Wireless Smartwatch Z3",
+        "product_title": "Z3 Bluetooth Samartwatch",
+        "product_image": "https://i.ibb.co.com/xJFJC38/71f-U5-C2-PNVL-AC-SL1500.jpg",
+        "category": "watch",
+        "price": 129.99,
+        "description": "Z3 Bluetooth headphowatchnes offer crystal-clear sound with noise-canceling technology.",
+        "specification": {
+            "Battery Life": "30 hours",
+            "Connectivity": "Bluetooth 5.0",
+            "Noise Cancelation": "Active"
+        },
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "104",
+        "product_name": "4K TV UltraHD",
+        "product_title": "UltraHD 4K Smart TV",
+        "product_image": "https://i.ibb.co.com/QKBqsKs/download-1.jpg",
+        "category": "accesory",
+        "price": 899.99,
+        "description": "Experience stunning visuals with the UltraHD 4K Smart TV, equipped with a 65-inch display and HDR support.",
+        "specification": {
+            "Screen Size": "65 inches",
+            "Resolution": "4K",
+            "Smart TV": "Yes",
+            "HDR": "Yes"
+        },
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": "105",
+        "product_name": "Fitness Watch S2",
+        "product_title": "S2 Fitness Smartwatch",
+        "product_image": "https://i.ibb.co.com/RcYBCbX/R-1.jpg",
+        "category": "watch",
+        "price": 199.99,
+        "description": "Stay on track with the S2 Fitness Smartwatch featuring heart rate monitoring and GPS.",
+        "specification": {
+            "Display": "1.3 inches",
+            "Battery Life": "7 days",
+            "Water Resistance": "50 meters",
+            "GPS": "Yes"
+        },
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "106",
+        "product_name": "Headset",
+        "product_title": "Console X 1TB",
+        "product_image": "https://i.ibb.co.com/WgNNrRs/OIP-1.jpg",
+        "category": "accesory",
+        "price": 499.99,
+        "description": "High-performance gaming console with 1TB storage, optimized for the latest games.",
+        "specification": {
+            "Storage": "1 TB",
+            "Resolution": "4K",
+            "Connectivity": "Wi-Fi, Bluetooth"
+        },
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "107",
+        "product_name": "Home Speaker V5",
+        "product_title": "V5 Smart Speaker",
+        "product_image": "https://i.ibb.co.com/mGD4srQ/OIP-2.jpg",
+        "category": "accesory",
+        "price": 89.99,
+        "description": "V5 Smart Speaker with voice assistance and 360-degree sound.",
+        "specification": {
+            "Power": "20W",
+            "Connectivity": "Bluetooth, Wi-Fi",
+            "Voice Assistant": "Yes"
+        },
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "108",
+        "product_name": " 14 Pro Max",
+        "product_title": "X Pro 10.5 ",
+        "product_image": "https://i.ibb.co.com/JKVx3vC/Apple-i-Phone-14-Pro-i-Phone-14-Pro-Max-deep-purple-220907-inline-jpg-large.jpg",
+        "category": "iphone",
+        "price": 499.99,
+        "description": "Lightweight and powerful, the X Pro tablet has a 10.5-inch display and supports stylus input.",
+        "specification": {
+            "Screen Size": "10.5 inches",
+            "Storage": "128 GB",
+            "Battery Life": "12 hours",
+            "Processor": "Octa-core"
+        },
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "109",
+        "product_name": "Macbook Air",
+        "product_title": "FlyMax Quadcopter Macbook",
+        "product_image": "https://i.ibb.co.com/VWR5gHg/OIP-3.jpg",
+        "category": "mac",
+        "price": 349.99,
+        "description":"Capture stunning visibility",
+        "specification": {
+            
+            "Camera": "4K",
+            "Flight Time": "30 minutes",
+            "Range": "2 km",
+            "GPS": "Yes"
+        },
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "110",
+        "product_name": "Portable Charger P20",
+        "product_title": "P20 Power Bank",
+        "product_image": "https://i.ibb.co.com/ZXTcnZP/OIP-4.jpg",
+        "category": "accesory",
+        "price": 29.99,
+        "description": "The P20 Power Bank provides 20,000 mAh capacity to charge multiple devices on the go.",
+        "specification": {
+            "Capacity": "20000 mAh",
+            "Ports": "USB-A, USB-C",
+            "Fast Charging": "Yes"
+        },
+        "availability": true,
+        "rating": 4.7
+    }
+]
+
+
+
+
